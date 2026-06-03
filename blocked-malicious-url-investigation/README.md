@@ -1,4 +1,4 @@
-# Malicious URL Blocked by Firewall Investigation
+# Phishing Email Leading to Blocked Malicious Connection
 
 ## Overview
 
